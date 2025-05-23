@@ -12,12 +12,15 @@ class Language(Enum):
     :vartype ES: str
     :cvar FR: "fr"
     :vartype FR: str
+    :cvar DE: "de"
+    :vartype DE: str
     """
 
     EN = "en"
     SR = "sr"
     ES = "es"
     FR = "fr"
+    DE = "de"
 
     def list():
         """Lists all category values.
