@@ -2,13 +2,13 @@
 
 A list of all methods in the `IndexService` service. Click on the method name to view detailed information about that method.
 
-| Methods                     | Description                                                                                                                                               |
-| :-------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [hello_world](#hello_world) | Returns a greeting message with timestamp and optional language specification. Supported languages: en (English), sr (Serbian), es (Spanish), fr (French) |
+| Methods                     | Description                                                                    |
+| :-------------------------- | :----------------------------------------------------------------------------- |
+| [hello_world](#hello_world) | Returns a greeting message with timestamp and optional language specification. |
 
 ## hello_world
 
-Returns a greeting message with timestamp and optional language specification. Supported languages: en (English), sr (Serbian), es (Spanish), fr (French)
+Returns a greeting message with timestamp and optional language specification.
 
 - HTTP Method: `GET`
 - Endpoint: `/`

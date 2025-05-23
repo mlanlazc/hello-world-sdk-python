@@ -12,7 +12,7 @@ class IndexService(BaseService):
 
     @cast_models
     def hello_world(self, language: Language = SENTINEL) -> HelloResponse:
-        """Returns a greeting message with timestamp and optional language specification. Supported languages: en (English), sr (Serbian), es (Spanish), fr (French)
+        """Returns a greeting message with timestamp and optional language specification.
 
         :param language: language, defaults to None
         :type language: Language, optional
