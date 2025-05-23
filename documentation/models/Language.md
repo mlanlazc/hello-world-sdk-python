@@ -8,3 +8,4 @@
 | SR   | str  | ✅       | "sr"        |
 | ES   | str  | ✅       | "es"        |
 | FR   | str  | ✅       | "fr"        |
+| DE   | str  | ✅       | "de"        |
