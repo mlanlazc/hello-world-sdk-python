@@ -1,4 +1,4 @@
-# HelloWorldSdk Python SDK 1.6.0<a id="helloworldsdk-python-sdk-160"></a>
+# HelloWorldSdk Python SDK 1.7.0<a id="helloworldsdk-python-sdk-170"></a>
 
 Welcome to the HelloWorldSdk SDK documentation. This guide will help you get started with integrating and using the HelloWorldSdk SDK in your project.
 
@@ -6,8 +6,8 @@ Welcome to the HelloWorldSdk SDK documentation. This guide will help you get sta
 
 ## Versions<a id="versions"></a>
 
-- API version: `1.6.0`
-- SDK version: `1.6.0`
+- API version: `1.7.0`
+- SDK version: `1.7.0`
 
 ## About the API<a id="about-the-api"></a>
 
