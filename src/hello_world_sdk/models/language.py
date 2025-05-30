@@ -16,8 +16,8 @@ class Language(Enum):
     :vartype DE: str
     :cvar NL: "nl"
     :vartype NL: str
-    :cvar JA: "ja"
-    :vartype JA: str
+    :cvar IT: "it"
+    :vartype IT: str
     """
 
     EN = "en"
@@ -26,7 +26,7 @@ class Language(Enum):
     FR = "fr"
     DE = "de"
     NL = "nl"
-    JA = "ja"
+    IT = "it"
 
     def list():
         """Lists all category values.
