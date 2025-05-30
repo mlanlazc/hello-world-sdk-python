@@ -1,11 +1,11 @@
 {
   "liblabVersion": "2.25.23",
-  "date": "2025-05-30T14:27:10.263Z",
+  "date": "2025-05-30T14:42:57.241Z",
   "config": {
-    "apiId": 2258,
+    "apiId": 2259,
     "baseUrl": "https://ci-cd-integration.onrender.com",
     "sdkName": "hello-world-sdk",
-    "sdkVersion": "1.6.0",
+    "sdkVersion": "1.7.0",
     "languages": ["python"],
     "auth": ["bearer"],
     "docs": [],
@@ -13,7 +13,7 @@
     "deliveryMethods": ["zip"],
     "rawConfig": {
       "sdkName": "hello-world-sdk",
-      "apiVersion": "1.6.0",
+      "apiVersion": "1.7.0",
       "apiName": "hello-world-sdk-api",
       "specFilePath": "./api.json",
       "baseUrl": "https://ci-cd-integration.onrender.com",
@@ -49,7 +49,7 @@
           "pypiPackageName": "",
           "githubRepoName": "hello-world-sdk-python",
           "ignoreFiles": [],
-          "sdkVersion": "1.6.0",
+          "sdkVersion": "1.7.0",
           "liblabVersion": "2"
         },
         "typescript": {
@@ -70,7 +70,7 @@
       }
     },
     "liblabConfigVersion": "1.0.0",
-    "apiVersion": "1.6.0",
+    "apiVersion": "1.7.0",
     "apiName": "hello-world-sdk-api",
     "specFilePath": "./api.json",
     "createDocs": false,
@@ -80,7 +80,7 @@
         "ignoreFiles": [],
         "liblabVersion": "2",
         "renameIllegalModelProperties": true,
-        "sdkVersion": "1.6.0",
+        "sdkVersion": "1.7.0",
         "alwaysInitializeOptionals": false,
         "pypiPackageName": ""
       },

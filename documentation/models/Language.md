@@ -11,3 +11,4 @@
 | DE   | str  | ✅       | "de"        |
 | NL   | str  | ✅       | "nl"        |
 | IT   | str  | ✅       | "it"        |
+| JA   | str  | ✅       | "ja"        |
