@@ -10,4 +10,4 @@
 | FR   | str  | ✅       | "fr"        |
 | DE   | str  | ✅       | "de"        |
 | NL   | str  | ✅       | "nl"        |
-| JA   | str  | ✅       | "ja"        |
+| IT   | str  | ✅       | "it"        |
