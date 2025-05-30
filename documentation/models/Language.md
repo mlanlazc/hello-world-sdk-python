@@ -9,3 +9,5 @@
 | ES   | str  | ✅       | "es"        |
 | FR   | str  | ✅       | "fr"        |
 | DE   | str  | ✅       | "de"        |
+| NL   | str  | ✅       | "nl"        |
+| JA   | str  | ✅       | "ja"        |
